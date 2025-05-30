@@ -55,7 +55,7 @@
 - 📞 *WhatsApp*: [01017698308](https://wa.me/201017698308)
 - 💬 *Telegram*: [@husseinfawzy](https://t.me/husseinfawzy)
 - 📧 *Email*: [fawzyhussien910@gmail.com](mailto:fawzyhussien910@gmail.com)
-- GitHub: [husseinfawzy](https://github.com/husseinfawzy)
+- GitHub: [husseinfawzy](https://github.com/Abofawzy125)
 - Portfolio: Coming Soon!
 
 ---
