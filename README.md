@@ -6,8 +6,6 @@
 <h2>Hi, I'm Hussein Fawzy 👨‍💻</h2>
 <h3>💻 Full Stack Web Developer | Passionate about Clean Code & Creative UI/UX</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=husseinfawzy&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Contact%20Me-Telegram-blue?style=flat&logo=telegram)](https://t.me/your_username)
 
 </div>
 
@@ -50,7 +48,13 @@
 ---
 
 ### 🚀 Let's Connect
-- Telegram: [@your_username](https://t.me/your_username)
+
+
+
+
+- 📞 *WhatsApp*: [01017698308](https://wa.me/201017698308)
+- 💬 *Telegram*: [@husseinfawzy](https://t.me/husseinfawzy)
+- 📧 *Email*: [fawzyhussien910@gmail.com](mailto:fawzyhussien910@gmail.com)
 - GitHub: [husseinfawzy](https://github.com/husseinfawzy)
 - Portfolio: Coming Soon!
 
