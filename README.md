@@ -7,6 +7,8 @@
 <h3>💻 Full Stack Web Developer | Passionate about Clean Code & Creative UI/UX</h3>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=husseinfawzy&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
 
 ---
