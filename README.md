@@ -3,7 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /> <br>
 
-<h2>Hi, I'm Hussein Fawzy 👨‍💻</h2>
+<h2>Hi, I'm Hussien Fawzy 👨‍💻</h2>
 <h3>💻 Full Stack Web Developer | Passionate about Clean Code & Creative UI/UX</h3>
 
 
