@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /> <br>
 
 <h2>Hi, I'm Hussein Fawzy 👨‍💻</h2>  
-<h3>💻 Front-End Development | Passionate about Clean Code & Creative UI/UX</h3>  
+<h3>💻 Front-End Developer | Passionate about Clean Code & Creative UI/UX</h3>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=husseinfawzy&style=flat&color=orange&label=PROFILE+VIEWS)  
 
